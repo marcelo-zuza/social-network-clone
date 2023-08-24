@@ -6,7 +6,7 @@ function App() {
   return (
     <div>
       <h2 className="bg-black text-white text-center text-2xl border-r border-black">Developed by <span className="font-bold">MARCELO ZUZA</span> | <a href="https://www.linkedin.com/in/marcelo-zuza/" className="hover:text-blue-700">Linkedin</a> | <a href="https://github.com/marcelo-zuza/social-network-clone" className="hover:text-blue-700">GitHub</a></h2>
-      <h1 className="bg-red-600 text-white text-3xl p-8 text-center">WARNING - This is not an official page, just a praticing exercise</h1>
+      <h1 className="bg-red-600 text-white text-3xl p-8 text-center">WARNING - This is not an official page, just an exercise</h1>
       <main>
         <div className="md:bg-main-gray md:pt-30 md:pb-40">
           {/* Main Page */}
